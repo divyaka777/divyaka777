@@ -1,16 +1,20 @@
-## Hi there 👋
+Hello! 👋 I’m DK
 
-<!--
-**divyaka777/divyaka777** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I’m a Senior SDET with a passion for test automation and building scalable frameworks. I have extensive experience using tools like Cypress.io, Appium, and frameworks such as TestNG. My expertise lies in writing automation scripts with JavaScript and TypeScript to ensure robust and efficient testing for both web and mobile applications.
 
-Here are some ideas to get you started:
+🔧 Tools & Technologies:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+	•	Languages: JavaScript, TypeScript
+	•	Test Automation: Cypress, Appium, TestNG
+	•	API Testing: Postman, SoapUI
+	•	Mobile Testing: Android, iOS, CharlesProxy
+	•	CI/CD: GitHub Actions, Jenkins
+
+🌱 What I’m Working On:
+
+	•	Automating end-to-end testing for mobile and web apps
+	•	Building reliable CI/CD pipelines with GitHub Actions and Jenkins
+
+💡 Let’s Collaborate:
+
+I am passionate about helping women in tech who are looking to break into test automation or elevate their careers. I love collaborating with and mentoring women who are striving to gain hands-on experience and move into leadership roles in the tech industry. Let’s grow together and make a bigger impact!
